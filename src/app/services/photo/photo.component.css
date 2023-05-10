@@ -1,0 +1,23 @@
+.heading {
+    text-align: center;
+  }
+  
+  .heading h2 {
+    font-size: 64px;
+    margin: 0px 0px 0px 0px ;
+    color: #e30613;
+  }
+  .text1{
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 32px;
+    margin-top: 0;
+  }
+  .info-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 1rem;
+    
+    
+    justify-content: space-between;
+  }

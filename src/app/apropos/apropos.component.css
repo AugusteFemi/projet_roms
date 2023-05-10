@@ -1,0 +1,67 @@
+.apropos-container {
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap: 1rem;
+    margin-top: 2rem;
+    justify-content: space-between;
+    
+  }
+
+  .apropos-img {
+     order: 2;
+    }
+  .apropos-img img {
+    width: 100%;
+    margin-left: 20%;
+    border-radius: 0.5rem;
+  }
+  
+  .apropos-text p {
+   
+    font-weight: 400;
+    text-align: justify;
+  }
+  
+  .heading {
+    text-align: center;
+  }
+  
+  .heading h2 {
+    font-size: 64px;
+    margin: 20px 0px 0px 0px ;
+  }
+  
+  .heading span {
+    font-size: var(--p-font);
+    color: rgb(2, 166, 70);
+  }
+  .button{
+    margin-left: 251px;
+    width: 200px;
+    height: 50px;
+    background-color: #E30613;
+    color: #fff;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .text1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 0;
+  }
+  .text2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 251px;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 0;
+  }
+  .text3{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 311px;
+    font-weight: 600;
+
+    font-size: 32px;
+  }
